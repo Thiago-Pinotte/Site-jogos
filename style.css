@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: black;
+}
+h1{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+}
+#App{
+    background-color: aquamarine;
+}
+.line{
+    height: 6px;
+    background-color: aqua;
+    width: 50px;
+    margin: 8px auto;
+}
+#Game{
+    background-color: blueviolet;
+}
